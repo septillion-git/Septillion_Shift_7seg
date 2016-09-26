@@ -5,8 +5,8 @@
   
 ****************************************************/
 
-#ifndef SEPTILLION_SHIFT_7SEG
-#define SEPTILLION_SHIFT_7SEG
+#ifndef SEPTILLION_SHIFT_7SEG_H
+#define SEPTILLION_SHIFT_7SEG_H
 
 #include <Arduino.h>   //Arduino IDE >= V1.0
 #include "Print.h"
